@@ -22,6 +22,20 @@ const ShowInfo  = {
     DiscordMoraisScripts: "https://discord.gg/eSmhxDzjd4",
 };
 ```
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelDevelopment&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="XCOR3" />
